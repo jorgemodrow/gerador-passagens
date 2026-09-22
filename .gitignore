@@ -1,0 +1,11 @@
+# Ambientes Virtuais
+venv/
+.venv/
+
+# Arquivos compilados internos do Python
+__pycache__/
+
+# Arquivos gerados pelo sistema (mantém o repositório limpo)
+bilhetes/
+*.pdf
+*.png
