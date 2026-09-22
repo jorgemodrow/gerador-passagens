@@ -20,7 +20,7 @@ O projeto adota o princípio de responsabilidade única, dividido em três módu
 - `interface.py`: Módulo dedicado à validação de inputs e formatação visual no terminal.
 - `gerador_pdf.py`: Módulo responsável pelo cálculo de posições (eixos X e Y) e renderização gráfica utilizando a biblioteca `fpdf`.
 
-## 🚀 Como executar na sua máquina
+## Como executar
 
 1. Clone este repositório
 
