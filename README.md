@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FPDF](https://img.shields.io/badge/FPDF-PDF_Generation-red?style=for-the-badge)
 ![QRCode](https://img.shields.io/badge/QRCode-Dynamic_Generation-black?style=for-the-badge)
+![Licença MIT](https://img.shields.io/badge/Licença-MIT-green?style=for-the-badge)
 
 Um sistema interativo via terminal que coleta dados de passageiros e gera, automaticamente, um bilhete de passagem de ônibus em formato PDF. O projeto foi desenvolvido para consolidar conceitos avançados de estruturação de código, manipulação de arquivos e uso de bibliotecas de terceiros.
 
@@ -43,3 +44,16 @@ python main.py
 ## Principais Aprendizagens
 
 O desenvolvimento deste projeto consolidou os conhecimentos sobre o âmbito de variáveis e o manuseamento correto de dicionários. A refatoração contínua permitiu eliminar redundâncias no desenho do PDF, enquanto a utilização da estrutura try/finally garantiu que ficheiros de imagem temporários fossem adequadamente excluídos do disco após a geração do documento, mantendo o diretório limpo.
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
+
+## Autor
+
+Desenvolvido por **Jorge Gabriel Modrow**.
+
+Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas na **Universidade Federal do Paraná — UFPR**.
+
+- LinkedIn: [Ver perfil](https://www.linkedin.com/in/jorgemodrow/)
+- GitHub: [Ver perfil](https://github.com/jorgemodrow)
